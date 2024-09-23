@@ -1,2 +1,2 @@
 # King-Sukh-Website
-This project aims to redesign the King Sukh Guest House website to improve its visual appeal, usability, and responsiveness.
+This project aims to redesign the King Sukh Guest House website to improve its visual appeal, usability, and responsiveness.It Using HTML, CSS and JavaScript, the goal is to create a modern, user-friendly interface that highlights the guest house’s services. The final website will be optimized for all devices and search engines, providing an engaging experience for visitors and increasing customer inquiries.
